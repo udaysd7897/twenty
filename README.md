@@ -169,5 +169,5 @@ Below are a few features we have implemented to date:
 - [Contributions](https://github.com/twentyhq/twenty/contribute) are, of course, most welcome! 
 
 
-
+# Happy Coding!
 
